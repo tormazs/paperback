@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: paperback 0.6.1\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-10-13 22:23+0000\n"
+"POT-Creation-Date: 2026-10-16 23:59+0000\n"
 "PO-Revision-Date: 2026-01-25 15:00+0700\n"
 "Last-Translator: \n"
 "Language-Team: \n"
@@ -5041,7 +5041,6 @@ msgstr "Sử dụng trình duyệt tệp trong ứng dụng (yêu cầu quyền 
 msgid "Text-to-Speech"
 msgstr "Chuyển đổi văn bản thành tiếng nói"
 
-#. TRANSLATORS: TalkBack value announced when a TTS setting is following the system/engine default rather than a custom value
 #: kt
 #, fuzzy
 msgid "System Default"
@@ -5451,6 +5450,12 @@ msgstr "Dừng đọc sau kết quả tìm kiếm"
 #, fuzzy
 msgid "Turn off to continue reading while navigating by search matches."
 msgstr "Tắt để tiếp tục đọc trong khi điều hướng bằng kết quả tìm kiếm."
+
+#. TRANSLATORS: Row label in the Document Info sheet for how far through the document the reader has got
+#: swift
+#, fuzzy
+msgid "Progress"
+msgstr "Tiến độ"
 
 #, fuzzy
 #~ msgid "&Undo\tCtrl+Z"

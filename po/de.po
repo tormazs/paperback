@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: paperback 0.8\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-10-13 22:23+0000\n"
+"POT-Creation-Date: 2026-10-16 23:59+0000\n"
 "PO-Revision-Date: 2026-09-24 20:59+0200\n"
 "Last-Translator: Steffen Schultz <steffenschultz@mailbox.org>\n"
 "Language-Team: Steffen Schultz <steffenschultz@mailbox.org>\n"
@@ -4304,7 +4304,6 @@ msgstr "Integrierten Dateibrowser verwenden (benötigt Berechtigung Zugriff auf 
 msgid "Text-to-Speech"
 msgstr "Sprachausgabe"
 
-#. TRANSLATORS: TalkBack value announced when a TTS setting is following the system/engine default rather than a custom value
 #: kt
 msgid "System Default"
 msgstr "Systemstandard"
@@ -4661,6 +4660,12 @@ msgstr "Vorlesen nach Suchergebnissen stoppen"
 #, fuzzy
 msgid "Turn off to continue reading while navigating by search matches."
 msgstr "Ausschalten, um weiterzulesen und gleichzeitig nach Suchergebnissen zu navigieren."
+
+#. TRANSLATORS: Row label in the Document Info sheet for how far through the document the reader has got
+#: swift
+#, fuzzy
+msgid "Progress"
+msgstr "Leseposition"
 
 #~ msgid "&Undo\tCtrl+Z"
 #~ msgstr "&Rückgängig\tCtrl+Z"
